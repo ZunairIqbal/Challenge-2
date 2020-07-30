@@ -1,0 +1,95 @@
+/********************************Tag Selectors********************************/
+body {
+  background-color: #FAFAFA;
+  text-align: center;
+  position: relative;
+  font-family: 'Poppins', sans-serif;
+}
+
+div {
+  text-align: left;
+  border-style: outset;
+  border-width: 5px 0 0 0;
+  border-radius: 2%;
+  height: 250px;
+  width: 22%;
+}
+
+h1 {
+  font-weight: 200;
+}
+
+img {
+  position: absolute;
+  right: 40px;
+  bottom: 40px;
+}
+
+/********************************Class Selectors********************************/
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: #3E52A3;
+}
+
+.heading {
+  text-align: center;
+  width: 35%;
+  border-width: 0;
+  position: absolute;
+  left: 509.289px;
+}
+
+.nd-heading {
+  font-weight: 600;
+}
+
+.topbox {
+  border-top-color: #EA5353;
+  background-color: white;
+  position: absolute;
+  left: 595.133px;
+  top: 275px;
+  padding-left: 30px;
+  box-shadow: 3px 24px 88px -29px #B3B3B3;
+}
+
+.rightbox {
+  border-top-color: #549EF2;
+  background-color: white;
+  position: absolute;
+  right: 175px;
+  top: 425px;
+  padding-left: 30px;
+  box-shadow: 3px 24px 88px -29px #B3B3B3;
+}
+
+.bottombox {
+  border-top-color: #FCAF4A;
+  background-color: white;
+  position: absolute;
+  left: 595.133px;
+  top: 575px;
+  margin-bottom: 75px;
+  padding-left: 30px;
+  box-shadow: 3px 24px 88px -29px #B3B3B3;
+}
+
+.leftbox {
+  border-top-color: #45D3D3;
+  background-color: white;
+  position: absolute;
+  left: 175px;
+  top: 425px;
+  padding-left: 30px;
+  box-shadow: 3px 24px 88px -29px #B3B3B3;
+}
+
+.copyright {
+  position: absolute;
+  top: 950px;
+  left: 638.918px;
+}
